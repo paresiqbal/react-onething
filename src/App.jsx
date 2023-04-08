@@ -25,6 +25,13 @@ function App() {
   const handleSubmit = (e) => {
     e.preventDefault();
 
+    // Check value before inputing
+    if (input === "") {
+      alert("What is your One Thing !");
+
+      return;
+    }
+
     // remove ui after submit form
     setIsCompleted(false);
   };
