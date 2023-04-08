@@ -1,3 +1,3 @@
 # react-onething
-# Basic concept of React JS
-# Basic Taillwind
+- Basic React JS concept
+- Basic Taillwind CSS styeling
